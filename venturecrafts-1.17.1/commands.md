@@ -1,6 +1,6 @@
 ---
 description: a list of all the available server commands
-cover: ../.gitbook/assets/998e055ab (2).gif
+cover: ../.gitbook/assets/998e055ab.gif
 coverY: 0
 ---
 
