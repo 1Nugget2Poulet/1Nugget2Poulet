@@ -2,6 +2,6 @@
 description: All prices about every CUSTOM (not vanilla) items that can be sold
 ---
 
-# 💲 Items Prices
+# 💲 Items Worth
 
-<mark style="color:red;">Coming soon</mark>
+**Ruby:** <mark style="color:green;">0.3$</mark>
