@@ -8,3 +8,5 @@ description: Pretty much every others infos about the server
 
 Just to say, Claims protect your base from being destroyed by anybody BUT\
 claims do not protect from stealing in chest, opening doors or killing animals !
+
+Maximum of 2 claims per players
