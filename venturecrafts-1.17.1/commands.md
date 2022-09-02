@@ -38,7 +38,7 @@ coverY: 0
 
 16\. **/baltop** (Show you the virtual money leaderboard)
 
-17\. **/buyclaimblocks** _\[amount]_ (used to buy more claimblocks) <mark style="color:blue;">0.05$</mark> each
+17\. **/buyclaimblocks** _\[amount]_ (used to buy more claimblocks) <mark style="color:blue;">0.1$</mark> each
 
 18\. **/sellclaimblocks** _\[amount]_ (used to sell some of your claimblocks) <mark style="color:blue;">0.01$</mark> each
 
