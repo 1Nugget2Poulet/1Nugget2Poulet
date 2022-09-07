@@ -11,3 +11,5 @@ coverY: 0
 **#2**: <mark style="color:red;">Any insult with the sight of hurting someone</mark>\ <mark style="color:red;">will be punished.</mark>
 
 **#3**: <mark style="color:red;">Any use of lags machine will result in a ban !</mark>
+
+**#4**: <mark style="color:red;">Abusing of killing someone/griefing or being too toxic will result in a ban !</mark>
